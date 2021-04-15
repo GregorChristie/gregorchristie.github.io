@@ -9,8 +9,11 @@ menu:
           url: posts
           weight: 5
         - name: Portfolio
+          url: portfolio
+          weight: 10
+        - name: About
           url: about
-          weight: 5
+          weight: 15
 
 params:
   homeInfoParams:
