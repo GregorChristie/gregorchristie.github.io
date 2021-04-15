@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregor Christie</title>
+    <link>gregorchristie.github.io/</link>
+    <description>Recent content on Gregor Christie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2021 15:31:21 +0100</lastBuildDate><atom:link href="gregorchristie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>gregorchristie.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 15 Apr 2021 15:31:21 +0100</pubDate>
+      
+      <guid>gregorchristie.github.io/posts/my-first-post/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
