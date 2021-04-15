@@ -1,4 +1,4 @@
-baseURL = "gregorchristie.github.io"
+baseURL = "https://gregorchristie.github.io"
 languageCode = "en-us"
 title = "Gregor Christie"
 theme = "ananke"
