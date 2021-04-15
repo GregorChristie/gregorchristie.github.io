@@ -1,0 +1,30 @@
+baseURL: "https://gregorchristie.github.io"
+languageCode: "en-us"
+title: "Gregor Christie"
+theme: "PaperMod"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        profileMode:
+            enabled: true
+            subtitle: "Software Engineering Student"
+            buttons:
+                - name: Blog Posts 
+                  url: posts
+                - name: Github
+                  url: https://github.com/GregorChristie
+                - name: Twitter
+                  url: https://twitter.com/GregorChristie_
+        menu:
+            main:
+                - name: Blog
+                  url: posts
+                  weight: 5
+                - name: Portfolio
+                  url: tags
+                  weight: 5
+                # - name: Categories
+                #   url: categories
+                #   weight: 10

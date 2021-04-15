@@ -3,28 +3,25 @@ languageCode: "en-us"
 title: "Gregor Christie"
 theme: "PaperMod"
 
-languages:
-    en:
-        languageName: "English"
-        weight: 1
-        profileMode:
-            enabled: true
-            subtitle: "Software Engineering Student"
-            buttons:
-                - name: Posts
-                  url: posts
-                - name: Github
-                  url: https://github.com/GregorChristie
-                - name: Twitter
-                  url: https://twitter.com/GregorChristie_
-        menu:
-            main:
-                - name: Posts
-                  url: posts
-                  weight: 5
-                # - name: Tags
-                #   url: tags
-                #   weight: 10
-                # - name: Categories
-                #   url: categories
-                #   weight: 10
+menu:
+    main:
+        - name: Blog
+          url: posts
+          weight: 5
+        - name: Portfolio
+          url: about
+          weight: 5
+
+params:
+  homeInfoParams:
+    Title: Gregor Christie
+    Content: >
+      Software Engineering Student
+
+      - C, Java, Python, Haskell
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/GregorChristie"
+    - name: "twitter"
+      url: "https://twitter.com/GregorChristie_"
