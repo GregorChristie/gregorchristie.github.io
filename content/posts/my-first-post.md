@@ -10,3 +10,7 @@ This is a test post
 ```python
 print("Hello World")
 ```
+
+```java
+system.out.println("Testing")
+```
