@@ -21,7 +21,7 @@ params:
     Content: >
       Software Engineering Student
 
-      - C, Java, Python, Haskell
+      - C/C++, Java, Python, Haskell
 
   socialIcons:
     - name: "github"
