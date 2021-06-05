@@ -5,7 +5,7 @@ title: "About"
 Hi there! I'm Gregor and I am a Software Engineering student at Edinburgh Napier University
 
 I currently have experience in -
-- C
+- C/C++
 - Java
 - Python
 - Haskell
